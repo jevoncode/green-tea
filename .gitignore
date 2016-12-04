@@ -1,0 +1,10 @@
+/target/
+/logs/
+/bin/
+/.settings/
+.classpath
+.project
+/log/
+.git/
+/node_modules/
+/dist/
